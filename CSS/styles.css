@@ -1,0 +1,11 @@
+h2.intro {
+  font-style: oblique;
+  color: blueviolet;
+}
+
+p.intro {
+  font: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  background-color:cyan;
+}
